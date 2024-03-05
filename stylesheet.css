@@ -1,0 +1,36 @@
+.about-me {
+    background-color: #f0f0f0; 
+    margin: 20px; 
+    padding: 20px; 
+    border-radius: 8px; 
+}
+
+.about-me h2 {
+    color: #333;
+}
+
+.about-me p {
+    color: #666; 
+    line-height: 1.6; 
+}
+
+#Title {
+    text-align: center;
+    font-size: 48px;
+}
+
+.contact a {
+    color: #007bff; 
+    text-decoration: underline; 
+}
+
+.contact a:hover {
+    color: #0056b3; 
+    text-decoration: none; 
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
